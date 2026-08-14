@@ -52,4 +52,3 @@ ai-resume-analyzer/
 ├── mvnw.cmd
 ├── .gitignore
 └── README.md
-```
